@@ -1,0 +1,62 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+.google-maps {
+    width: auto;
+    height: 20px;
+}
+
+@media (min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+
+    .google-maps {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media (min-width: 576px) {}
+
+.navbar-brand,
+.navbar-item,
+h1,
+h2,
+h3 {
+    font-family: Montserrat;
+}
+
+p, .lead {
+    font-family: Lato;
+}
+
+.nav-link {
+    color: white;
+}
+
+.btn-cust {
+    background-color: #F2BB44;
+    font-family: Lato;
+}
+
+.btn-cust:hover,
+.inst-cust,
+.news-cust {
+    background-color: #8A9CBD;
+}
+
+.text-cust {
+    color: #F2BB44;
+}
+
+.card-cust {
+    background-color: #2F2E41;
+}
+
+.bi-arrow-up-circle {
+    color: #8A9CBD;
+}
