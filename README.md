@@ -13,4 +13,4 @@ I loved it because it helped me use and better understand Bootstrap.
 [Traversy Media](https://www.youtube.com/c/TraversyMedia) - Bootstrap tutorial
 
 ## Final result
-![Art History Bootcamp](https://github.com/Clelia-M/photography-blog-post/blob/ea19743c9bcbf0cb5212f64e3c2880b840f3b625/assets/Photo_Blog%20Post_Thumb.png)
+![Art History Bootcamp](https://github.com/Clelia-M/art-course/blob/a38b132105158bdcc33aa6d9502fa96c8bfc39bc/Art%20History%20Bootcamp.png)
